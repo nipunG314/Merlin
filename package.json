@@ -1,0 +1,15 @@
+{
+  "name": "Merlin",
+  "main": "index.html",
+  "version": "0.0.1",
+  "window": {
+    "frame": false,
+    "fullscreen": true
+  },
+  "scripts": {
+    "start": "~/nwjs*/nw . --enable-logging=stderr"
+  },
+  "devDependencies": {
+    "nwjs-types": "^1.0.0"
+  }
+}
